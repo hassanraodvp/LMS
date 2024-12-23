@@ -1,0 +1,2 @@
+Cluster0 Password = UzOGUVeGpmgt6dnv
+URL = mongodb+srv://hassanrao820:UzOGUVeGpmgt6dnv@cluster0.dmgv7.mongodb.net/
